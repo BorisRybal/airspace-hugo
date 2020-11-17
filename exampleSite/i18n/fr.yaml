@@ -1,5 +1,6 @@
+---
 - id: last_update
-  translation: Last updated
+  translation: News
 - id: phone
   translation: Phone
 - id: email
