@@ -5,12 +5,12 @@ image: images/portfolio/work2.jpg
 bg_image: images/featue-bg.jpg
 category: Illustration
 information:
-- label: FR_Budget
-  info: 900.00 euros
 - label: FR_Client
   info: FR_Jannie Kelonsky
 - label: FR_What We Did
   info: FR_Website Redesign
+- label: FR_Budget
+  info: 900.00 euros
 - label: FR_Tools Used
   info: FR_Photoshop,Illustrator
 - label: Completed on
