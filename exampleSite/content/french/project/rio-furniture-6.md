@@ -39,12 +39,12 @@ voluptatibus temporibus dolore consectetur ex excepturi adipisci sunt. Maxime ap
 aliquid voluptate autem qui at impedit recusandae earum possimus, alias, maiores sint, sed quia quis aut
 cupiditate voluptatem reiciendis. Facilis nobis assumenda totam officiis dicta autem dolorem quidem
 similique, delectus rerum laborum veritatis, cum magnam dignissimos necessitatibus possimus error, eius
-omnis veniam culpa, porro officia adipisci exercitationem minus hic. Ipsum veritatis repudiandae nulla quo
+omnis veniam culpa, po![](/images/portfolio/work1.jpg)rro officia adipisci exercitationem minus hic. Ipsum veritatis repudiandae nulla quo
 dicta voluptates tenetur mollitia perferendis sequi, magnam doloremque odit similique, sit, voluptas unde
 iste molestias. Accusantium, corporis quibusdam quod in animi earum alias autem ipsum. Eaque rem numquam
-delectus veniam commodi doloribus consequatur deleniti?
+delectus veniam commodi doloribus consequatur deleniti?![](/images/slider-bg.jpg)![](/images/company/company-group-pic.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores neque vero quasi quisquam atque in,
+![](/images/featue-bg.jpg)Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores neque vero quasi quisquam atque in,
 libero ab sunt eius! Nesciunt laboriosam alias corporis sit accusantium voluptate sapiente debitis quos
 mollitia saepe maxime ipsum facilis dolore voluptas inventore veniam deleniti, eligendi harum aperiam iusto
 culpa? Delectus dolorum facere quasi iure explicabo?
