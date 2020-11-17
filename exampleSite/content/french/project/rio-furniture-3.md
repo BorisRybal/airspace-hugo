@@ -6,7 +6,7 @@ bg_image: images/featue-bg.jpg
 category: Video
 information:
 - label: Client
-  info: Jannie Kelonsky
+  info: FR_Jannie Kelonsky
 - label: What We Did
   info: Website Redesign
 - label: Tools Used
