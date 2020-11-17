@@ -7,7 +7,7 @@ category: Illustration
 information:
 - label: Client
   info: FR_Jannie Kelonsky
-- label: What We Did
+- label: FR_What We Did
   info: FR_Website Redesign
 - label: Tools Used
   info: Photoshop,Illustrator
