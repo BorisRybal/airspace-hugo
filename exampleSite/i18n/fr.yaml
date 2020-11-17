@@ -6,21 +6,21 @@
 - id: email
   translation: Email
 - id: location
-  translation: Location
+  translation: Lieu
 - id: buy_now
-  translation: Buy Now
+  translation: Acheter
 - id: address_title
   translation: Stop By For A visit
 - id: submit
-  translation: Send Message
+  translation: Envoyer un Message
 - id: all
   translation: All
 - id: posted_by
-  translation: Posted By
+  translation: Ecrit par
 - id: read_more
   translation: Continue Reading
 - id: latest_posts
-  translation: Derniers articles
+  translation: Actualités
 - id: page_prev
   translation: Précédent
 - id: page_next
