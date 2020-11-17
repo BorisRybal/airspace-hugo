@@ -1,4 +1,4 @@
-baseURL = "http://boris-airspace-hugo.netilfy.com"
+baseURL = "http://boris-airspace-hugo.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "4"
@@ -11,7 +11,7 @@ contentDir = "content/english"
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
 languageCode = "en-us"
 languageName = "En"
-weight = 1
+weight = "2"
 [[Languages.en.menu.footer]]
 URL = "about"
 name = "About"
