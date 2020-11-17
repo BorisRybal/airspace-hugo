@@ -8,7 +8,7 @@ information:
 - label: Client
   info: FR_Jannie Kelonsky
 - label: What We Did
-  info: Website Redesign
+  info: FR_Website Redesign
 - label: Tools Used
   info: Photoshop,Illustrator
 - label: Completed on
