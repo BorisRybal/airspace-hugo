@@ -1,6 +1,9 @@
 ---
-title: "Our Project"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: FR_Notre Project
+description: FR_this is meta description
+bg_image: images/featue-bg.jpg
+information:
+- {}
+
 ---
+FR_FR_FR_FR_FR_FR_FR_
