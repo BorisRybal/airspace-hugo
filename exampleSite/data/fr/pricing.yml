@@ -37,3 +37,5 @@ pricing:
     - 24/7 Tech Support
 cta:
   enable: true
+  title: FR_CTA_titre
+  content: FR_CTA_contenu
