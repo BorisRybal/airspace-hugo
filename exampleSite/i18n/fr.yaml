@@ -6,7 +6,7 @@
 - id: email
   translation: Email
 - id: location
-  translation: Lieu
+  translation: Bureau
 - id: buy_now
   translation: Acheter
 - id: address_title
