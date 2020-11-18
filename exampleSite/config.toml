@@ -6,6 +6,8 @@ summaryLength = "30"
 theme = "airspace-hugo"
 themesDir = "../.."
 title = "BRAV | Boris Rybaltchenko Architecture Vivante"
+
+
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 BRAV tous droits réservés."
@@ -46,7 +48,7 @@ name = "À propos"
 weight = 2
 [[Languages.fr.menu.main]]
 URL = "project"
-name = "Projet"
+name = "Projets"
 weight = 3
 [[Languages.fr.menu.main]]
 URL = "blog"
@@ -72,6 +74,8 @@ parent = "Pages"
 URL = "contact"
 name = "Contact"
 weight = 6
+
+
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 BRAV    All Rights Reserved"
@@ -143,6 +147,8 @@ unsafe = true
 [outputs]
 home = ["HTML"]
 [params]
+
+
 author = "BRAV"
 contact_form_action = "#"
 description = "BRAV : Boris Rybaltchenko Architecture Vivante"
