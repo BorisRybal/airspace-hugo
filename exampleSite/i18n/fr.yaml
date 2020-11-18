@@ -14,7 +14,7 @@
 - id: submit
   translation: Envoyer un Message
 - id: all
-  translation: All
+  translation: Tous
 - id: posted_by
   translation: Ecrit par
 - id: read_more
