@@ -16,11 +16,11 @@ languageName = "Fr"
 weight = "1"
 [[Languages.fr.menu.footer]]
 URL = "about"
-name = "About"
+name = "Brav"
 weight = 1
 [[Languages.fr.menu.footer]]
 URL = "project"
-name = "Project"
+name = "Projets"
 weight = 2
 [[Languages.fr.menu.footer]]
 URL = "service"
@@ -48,11 +48,11 @@ name = "À propos"
 weight = 2
 [[Languages.fr.menu.main]]
 URL = "project"
-name = "Projets"
+name = "Projet"
 weight = 3
 [[Languages.fr.menu.main]]
 URL = "blog"
-name = "Blog"
+name = "Actualités"
 weight = 4
 [[Languages.fr.menu.main]]
 hasChildren = true
@@ -157,7 +157,7 @@ google_analitycs_id = ""
 location = "198 rue marcadet, 75018 Paris, France"
 logo = "images/essai_logo_brav.png"
 logo_width = "200px"
-mobile = "0660946064"
+mobile = "06.60.94.60.64"
 multi_author = false
 [params.cookies]
 enable = false
