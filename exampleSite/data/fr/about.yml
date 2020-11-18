@@ -35,8 +35,8 @@ features:
   title: Nous sommes une agence indépendante
   feature_item:
   - icon: ion-ios-color-filter-outline
-    name: IOS App Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    name: FR_IOS App Development
+    content: FR_Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-ios-unlocked-outline
     name: App Secutity
