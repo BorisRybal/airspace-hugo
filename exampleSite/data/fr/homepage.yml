@@ -8,7 +8,7 @@ banner:
     clients to deliver  the best possible solutions for their needs
   button:
     enable: true
-    label: Discover Our Project
+    label: FR_Discover Our Project
     link: project
 about:
   enable: true
