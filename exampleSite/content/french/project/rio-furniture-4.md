@@ -3,7 +3,7 @@ title: FR_Rio Furniture
 description: this is meta description
 image: images/portfolio/work4.jpg
 bg_image: images/featue-bg.jpg
-category: UI/UX Design
+category: FR_UI/UX Design
 information:
 - label: Client
   info: Jannie Kelonsky
