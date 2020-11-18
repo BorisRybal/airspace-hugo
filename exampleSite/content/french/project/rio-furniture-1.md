@@ -1,6 +1,6 @@
 ---
-title: Rio Furniture
-description: this is meta description
+title: FR_Rio Furniture
+description: FR_this is meta description
 image: images/portfolio/work1.jpg
 bg_image: images/featue-bg.jpg
 category: FR_UI/UX Design
