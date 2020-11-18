@@ -1,6 +1,6 @@
 ---
 title: FR_Rio Furniture
-description: this is meta description
+description: FR_this is meta description
 image: images/portfolio/work6.jpg
 bg_image: images/featue-bg.jpg
 category: Video
@@ -21,9 +21,7 @@ information:
 ---
 ## FR_Behance Website Redesign
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
-reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
-at provident soluta consequatur.
+FR_Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibusdam sed, neque recusandae, est
 odit. A facere tempore soluta laborum.
