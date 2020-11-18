@@ -145,8 +145,8 @@ home = ["HTML"]
 [params]
 author = "Brav"
 contact_form_action = "#"
-description = "This is meta description"
-email = "demo@email.com"
+description = "BRAV : Boris Rybaltchenko Architecture Vivante"
+email = "borisryal@gmail.com"
 google_analitycs_id = ""
 location = "198 rue marcadet, 75018 Paris, France"
 logo = "images/essai_logo_brav.png"
