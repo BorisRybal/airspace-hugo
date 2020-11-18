@@ -13,8 +13,8 @@ information:
   info: Photoshop,Illustrator
 - label: Completed on
   info: 17th March 2014
-- label: Skills
-  info: HTML5 / PHP / CSS3
+- label: FR_Skills
+  info: FR_HTML5 / PHP / CSS3
 - label: Client
   info: Jannie Kelonsky
 
