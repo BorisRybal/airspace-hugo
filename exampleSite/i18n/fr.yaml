@@ -21,10 +21,10 @@
   translation: En savoir plus
 - id: latest_posts
   translation: Actualités
-- id: page_prev
-  translation: Précédent
 - id: page_next
   translation: Suivant
+- id: page_prev
+  translation: Précédent
 - id: tags
   translation: Mots clefs
 - id: categories
