@@ -164,7 +164,7 @@ map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
 [params.nav_button]
 enable = true
-label = "Get A Quote"
+label = "Faîtes-nous signe"
 link = "contact"
 [[params.plugins.css]]
 attributes = "media='screen'"
