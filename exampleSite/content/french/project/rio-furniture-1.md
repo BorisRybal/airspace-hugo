@@ -11,8 +11,8 @@ information:
   info: FR_Website Redesign
 - label: FR_Tools Used
   info: FR_Photoshop,Illustrator
-- label: Completed on
-  info: 17th March 2014
+- label: FR_Completed on
+  info: FR_eemple_info17th March 2014
 - label: Skills
   info: HTML5 / PHP / CSS3
 - label: Client
