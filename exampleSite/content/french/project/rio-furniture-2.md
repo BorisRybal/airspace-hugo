@@ -1,9 +1,9 @@
 ---
-title: Rio Furniture
-description: this is meta description
+title: FR_Rio Furniture
+description: FR_this is meta description
 image: images/portfolio/work2.jpg
 bg_image: images/featue-bg.jpg
-category: Illustration
+category: FR_Illustration
 information:
 - label: FR_Client
   info: FR_Jannie Kelonsky
@@ -21,7 +21,7 @@ information:
   info: Jannie Kelonsky
 
 ---
-## Behance Website Redesign
+## FR_Behance Website Redesign
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
 reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
