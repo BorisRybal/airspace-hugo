@@ -38,7 +38,7 @@ service:
     Vokalia and Consonantia, <br> there live the blind texts. Separated they live
     in Bookmarksgrove right at the coast of the Semantics
   service_item:
-  - icon: ion-coffee
+  - icon: FR_ion-coffee
     name: FR_Branding
     content: FR_Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
