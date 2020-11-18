@@ -43,6 +43,10 @@ service:
   enable: true
   title: Fr_Titre_service
   description: Fr_description
+  service_item:
+  - icon: ''
+    name: FR_ajout_service
+    content: FR_essai_text_ajout_service
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
