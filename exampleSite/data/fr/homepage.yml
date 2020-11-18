@@ -68,9 +68,9 @@ funfacts:
   - icon: FR_ion-ios-chatboxes-outline
     name: FR_Cups Of Coffee
     count: FR_99
-  - icon: ion-ios-glasses-outline
-    name: Article Written
-    count: "45"
+  - icon: FR_ion-ios-glasses-outline
+    name: FR_Article Written
+    count: FR_45
   - icon: ion-ios-compose-outline
     name: Projects Completed
     count: "125"
