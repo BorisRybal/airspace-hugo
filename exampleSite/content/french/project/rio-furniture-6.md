@@ -7,8 +7,8 @@ category: FR_Video
 information:
 - label: FR_Client
   info: FR_Jannie Kelonsky
-- label: What We Did
-  info: Website Redesign
+- label: FR_What We Did
+  info: FR_Website Redesign
 - label: Tools Used
   info: Photoshop,Illustrator
 - label: Completed on
