@@ -14,3 +14,16 @@ fields:
     maxSize: 25
   label: bg image
   description: page header background image
+- name: entrer_plusieurs_photos
+  type: image_gallery
+  config: {}
+  label: Entrer plusieurs photos
+  description: description entre plusieurs photos
+- name: blocs
+  type: blocks
+  label: blocs
+  template_types: []
+  config:
+    min: 
+    max: 
+  description: blocs
