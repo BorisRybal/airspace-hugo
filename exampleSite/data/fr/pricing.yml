@@ -2,17 +2,17 @@
 pricing:
   enable: true
   pricing_table:
-  - name: Basic
+  - name: FR_Basic
     price: "$99"
-    content: Perfect for single freelancers who work by themselves
+    content: FR_Perfect for single freelancers who work by themselves
     link: "#"
     services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
+    - FR_Unlimited agents
+    - FR_10 PSD Design
+    - FR_HTML5 Markup
+    - FR_Basic SEO
+    - FR_Email Marketing
+    - FR_24/7 Tech Support
   - name: FR_Premium
     price: "$199"
     content: FR_Suitable for small businesses with up to 5 employees
