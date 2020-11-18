@@ -72,3 +72,5 @@ service:
       tempor incididunt ut
 cta:
   enable: true
+  title: Fr_cta-titre
+  content: Fr_cta-contenu
