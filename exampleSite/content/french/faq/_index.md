@@ -1,21 +1,14 @@
 ---
 title: FR_Frequently Asked Questions
 description: FR_this is meta description
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae.
-date: '2019-12-23T13:05:29.000+06:00'
+subtitle: FR_Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae.
+date: 2019-12-23T13:05:29.000+06:00
 bg_image: images/featue-bg.jpg
 
 ---
-### FR_Welcome to BRAV!
+### FR_Welcome to Airspace!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam sint quas pariatur ipsam nemo
-repellendus suscipit quod accusantium numquam tempora assumenda sequi, velit voluptatem soluta voluptatibus
-nesciunt ducimus iure. Excepturi voluptatum ullam tenetur perspiciatis alias delectus beatae voluptatibus
-magni facere aspernatur, qui, quas nesciunt blanditiis assumenda a expedita accusantium quos consectetur neque
-nemo. Necessitatibus est quod quo deserunt, dicta aut voluptatem blanditiis, alias quos sed vel unde enim
-dolore aliquam quis reiciendis qui vitae reprehenderit. Similique nemo accusamus, vel possimus error cumque
-quas, tempora repellendus velit, unde cupiditate impedit deserunt fugit labore et nostrum sapiente est
-obcaecati maiores voluptates.
+FR_Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam sint quas pariatur ipsam nemo repellendus suscipit quod accusantium numquam tempora assumenda sequi, velit voluptatem soluta voluptatibus nesciunt ducimus iure. Excepturi voluptatum ullam tenetur perspiciatis alias delectus beatae voluptatibus magni facere aspernatur, qui, quas nesciunt blanditiis assumenda a expedita accusantium quos consectetur neque nemo. **_Necessitatibus est quod quo deserunt, dicta aut voluptatem blanditiis, alias quos sed vel unde enim dolore aliquam quis reiciendis qui vitae reprehenderit. Similique nemo accusamus, vel possimus error c_**umque quas, tempora repellendus velit, unde cupiditate impedit deserunt fugit labore et nostrum sapiente est obcaecati maiores voluptates.
 
 #### 1.Overview
 
