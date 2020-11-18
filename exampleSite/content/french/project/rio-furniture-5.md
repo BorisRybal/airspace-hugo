@@ -5,8 +5,8 @@ image: images/portfolio/work5.jpg
 bg_image: images/featue-bg.jpg
 category: FR_Illustration
 information:
-- label: Client-FR
-  info: Jannie FR_Kelonsky
+- label: FR-Client-FR
+  info: FR_Jannie FR_Kelonsky
 - label: What We Did
   info: Website Redesign
 - label: Tools Used
