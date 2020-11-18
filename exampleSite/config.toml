@@ -8,7 +8,7 @@ themesDir = "../.."
 title = "BRAV | Boris Rybaltchenko Architecture Vivante"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 BRAV    All Rights Reserved"
 languageCode = "en-us"
 languageName = "En"
 weight = "2"
