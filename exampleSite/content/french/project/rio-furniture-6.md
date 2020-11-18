@@ -1,9 +1,9 @@
 ---
 title: FR_Rio Furniture
-description: FR_this is meta description
+description: this is meta description
 image: images/portfolio/work6.jpg
 bg_image: images/featue-bg.jpg
-category: Video
+category: FR_Video
 information:
 - label: Client
   info: Jannie Kelonsky
@@ -21,7 +21,9 @@ information:
 ---
 ## FR_Behance Website Redesign
 
-FR_Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
+reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
+at provident soluta consequatur.
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibusdam sed, neque recusandae, est
 odit. A facere tempore soluta laborum.
