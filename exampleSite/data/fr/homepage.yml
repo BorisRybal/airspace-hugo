@@ -78,12 +78,12 @@ funfacts:
     name: Combined Projects
     count: "200"
   testimonial_slider:
-  - name: Raymond Roy
+  - name: FR_Raymond Roy
     image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+    designation: FR_CEO-Themefisher
+    content: FR_This Company created an e-commerce site with the tools to make our
+      business a success, with innovative ideas we feel that our site has unique elements
+      that make us stand out from the crowd.
   - name: FR_Randi Renin
     image: images/clients/avater-1.jpg
     designation: CEO-Themefisher
