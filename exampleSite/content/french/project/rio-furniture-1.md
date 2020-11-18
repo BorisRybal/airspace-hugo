@@ -9,8 +9,8 @@ information:
   info: FR_Jannie Kelonsky
 - label: FR_What We Did
   info: FR_Website Redesign
-- label: Tools Used
-  info: Photoshop,Illustrator
+- label: FR_Tools Used
+  info: FR_Photoshop,Illustrator
 - label: Completed on
   info: 17th March 2014
 - label: Skills
