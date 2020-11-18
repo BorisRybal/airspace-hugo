@@ -15,7 +15,7 @@ sections:
   - post
 - type: directory
   path: exampleSite/content/french/blog
-  label: Post (fr)
+  label: FR_Post (fr)
   create: documents
   match: "**/*"
   templates:
