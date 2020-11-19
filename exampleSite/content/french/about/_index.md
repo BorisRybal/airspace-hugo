@@ -1,6 +1,6 @@
 ---
-title: Notre approche
-description: FR_développement de la ralation au vivant
+title: Notre Company FRAFRA
+description: FR_FRAFRAthis is meta description
 bg_image: images/featue-bg.jpg
 
 ---
