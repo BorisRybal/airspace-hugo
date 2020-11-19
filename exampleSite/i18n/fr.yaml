@@ -29,3 +29,5 @@
   translation: Mots clefs
 - id: categories
   translation: Catégories
+- id: project_details
+  translation: Détails du projet
