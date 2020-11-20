@@ -5,6 +5,8 @@ image: images/portfolio/work6.jpg
 bg_image: images/featue-bg.jpg
 category: FR_Video
 information:
+- label: Project_details
+  info: Détails du Projet
 - label: FR_Client
   info: FR_Jannie Kelonsky
 - label: FR_What We Did
