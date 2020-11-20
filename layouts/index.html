@@ -6,7 +6,65 @@
 {{ with $data.homepage.banner }}
 
 <!-- AJOUT PERSO-->
+<SCRIPT Language="JavaScript">
+/**********************************************************
+* Faire afficher un message sous forme machine a ecrire   *
+* RECUPERE A : http://www.asi.fr/~ericbon/htmldoc.htm     *
+***********************************************************/
+<!--
+var i = 0;
+var TextNumber = 0;
+var TextInput = new Object();
+var HelpText = "";
+var Text = "";
+var Speed = 90
+var WaitSpace = "                    "
+TextInput[0]="                    "
+TextInput[1]=" Un exemple JavaScript permettant d'afficher "
+TextInput[2]=" un message caractère par caractère "
+TextInput[3]=" Cela nous donne un effet machine à écrire   "
+TotalTextInput = 3;
+for(var j = 0; j < TotalTextInput; j++) {
+TextInput[j] += WaitSpace }
+var TimerId
+var TimerSet = false;
 
+function startBanner() {
+ TimerSet = !TimerSet
+ if(TimerSet) banner();
+ else
+ kill(); }
+
+function banner() {
+ Text = rollMessage();
+ TimerId = setTimeout("banner()", Speed)
+ document.Roll.TextArea.value = Text;  }
+
+function rollMessage() {
+ Wait_yn = false;
+ i++;
+ var CheckSpace = HelpText.substring(i-1, i);
+ CheckSpace = "" + CheckSpace;
+ if(CheckSpace == " ") { i++; }
+ if(i >= HelpText.length+1) {
+  i = 0; 
+  if (TextNumber < TotalTextInput) {
+   TextNumber++;
+  } else {
+   TextNumber = 0; }
+   init(); }
+ Text = HelpText.substring(0, i);
+ return (Text); }
+
+function init() {
+ Text = TextInput[TextNumber]
+ HelpText = Text; }
+
+function kill() {
+ clearTimeout(TimerId) }
+// -->
+</SCRIPT>
+ 
 <div class="container-fluid home" id=home>
         <div class="background container-fluid" style="background-image: url('{{ .bg_image | absURL }}');"></div>
        
@@ -49,6 +107,13 @@
       </div>
     </div>
   </div>
+  
+        <FORM NAME="Roll">
+  <DIV ALIGN=center>
+  <INPUT TYPE="text" NAME="TextArea" SIZE="47">
+  </DIV>
+  </FORM>
+                
 </section>
 {{ end }}
 {{ end }}
