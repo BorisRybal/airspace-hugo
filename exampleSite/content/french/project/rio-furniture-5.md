@@ -19,6 +19,7 @@ information:
   info: HTML5 / PHP / CSS3
 - label: Client
   info: Jannie Kelonsky
+detail_project: Détail du projet
 
 ---
 ## FR_Behance Website Redesign
