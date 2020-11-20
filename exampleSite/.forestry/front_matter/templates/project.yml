@@ -20,6 +20,11 @@ fields:
   name: category
   label: category
   description: Filter Category
+- name: detail_du_projet
+  type: text
+  config:
+    required: false
+  label: Détail du projet
 - type: field_group_list
   name: Detail_projet
   label: information
