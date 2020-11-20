@@ -64,7 +64,11 @@ function kill() {
  clearTimeout(TimerId) }
 // -->
 </SCRIPT>
- 
+  <FORM NAME="Roll">
+  <DIV ALIGN=center>
+  <INPUT TYPE="text" NAME="TextArea" SIZE="47">
+  </DIV>
+  </FORM>
 <div class="container-fluid home" id=home>
         <div class="background container-fluid" style="background-image: url('{{ .bg_image | absURL }}');"></div>
        
@@ -108,11 +112,6 @@ function kill() {
     </div>
   </div>
   
-        <FORM NAME="Roll">
-  <DIV ALIGN=center>
-  <INPUT TYPE="text" NAME="TextArea" SIZE="47">
-  </DIV>
-  </FORM>
                 
 </section>
 {{ end }}
