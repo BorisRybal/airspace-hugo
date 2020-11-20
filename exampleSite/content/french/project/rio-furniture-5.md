@@ -5,6 +5,8 @@ image: images/portfolio/work5.jpg
 bg_image: images/featue-bg.jpg
 category: FR_Illustration
 information:
+- label: Project_details
+  info: Détails du projet
 - label: FR-Client-FR
   info: FR_Jannie FR_Kelonsky
 - label: What We Did
