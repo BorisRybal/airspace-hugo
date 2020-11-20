@@ -1,5 +1,6 @@
 baseURL = "http://boris-airspace-hugo.netlify.com"
 disableLanguages = []
+DefaultContentLanguage = "fr"                    # Default language for multilingual sites
 disqusShortname = ""
 paginate = "8"
 summaryLength = "30"
