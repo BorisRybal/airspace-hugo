@@ -27,3 +27,5 @@ fields:
     min: 
     max: 
   description: blocs
+pages:
+- exampleSite/content/french/pages/page-a.md
