@@ -28,4 +28,5 @@ fields:
     max: 
   description: blocs
 pages:
+- exampleSite/content/english/pages/page-a-eng.md
 - exampleSite/content/french/pages/page-a.md
