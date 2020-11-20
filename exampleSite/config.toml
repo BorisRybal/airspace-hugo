@@ -1,6 +1,6 @@
+DefaultContentLanguage = "fr"
 baseURL = "http://boris-airspace-hugo.netlify.com"
 disableLanguages = []
-DefaultContentLanguage = "fr"                    # Default language for multilingual sites
 disqusShortname = ""
 paginate = "8"
 summaryLength = "30"
@@ -113,7 +113,7 @@ name = "À propos"
 weight = 2
 [[Languages.fr.menu.main]]
 URL = "project"
-name = "Projet"
+name = "Projets"
 weight = 3
 [[Languages.fr.menu.main]]
 URL = "blog"
