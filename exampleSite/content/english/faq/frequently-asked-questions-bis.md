@@ -2,9 +2,8 @@
 bg_image = "images/featue-bg.jpg"
 date = "2020-03-23T13:05:29.000+06:00"
 description = "this is meta description"
-draft = true
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae."
-title = "Frequently Asked Questions-(BIS)"
+title = "FreSHH model FAQ (BIS)"
 
 +++
 ### Welcome to Airspace!
