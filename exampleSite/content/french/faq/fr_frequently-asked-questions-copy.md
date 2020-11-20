@@ -1,10 +1,9 @@
 +++
 bg_image = "images/featue-bg.jpg"
 date = "2019-12-23T13:05:29.000+06:00"
-description = "FR_this is meta description"
-draft = true
+description = "FR_tcopiehis is meta description"
 subtitle = "FR_Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae."
-title = "FR_Frequently Asked Questions-(copy)"
+title = "FR_Copie FAQ Questions-(copie)"
 
 +++
 ### FR_Welcome to Airspace!
