@@ -5,5 +5,6 @@ bg_image: images/featue-bg.jpg
 tags:
 - Porosité
 - biodiversité
+type: Recherche
 
 ---
