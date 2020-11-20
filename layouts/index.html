@@ -1,6 +1,33 @@
 {{ define "main" }}
 
 {{ $data := index site.Data site.Language.Lang }}
+<!-- AJOUT PERSO-->
+
+<div class="container-fluid home" id=home>
+        <div class="background container-fluid" style=background-image:url(https://hugo-toha.github.io/images/site/background.jpg)></div>
+       
+ <div class="container content text-center">
+            <img src=/images/author/john.png class="rounded-circle mx-auto d-block img-fluid">
+            <h1 class=greeting>Hi, I am John</h1>
+            <div class=typing-carousel>
+                <span id=ityped class=ityped></span>
+                <span class=ityped-cursor></span>
+            </div>
+
+
+            <ul id=typing-carousel-data>
+                <li>I am a Developer</li>
+                <li>I am a Devops</li>
+                <li>I love servers</li>
+                <li>I work on open-source projects</li>
+                <li>I love to work with some fun projects</li>
+            </ul>
+            <a href=#about>
+                <i class="arrow bounce fa fa-chevron-down"></i>
+            </a>
+        </div>
+    </div>
+<!-- AJOUT PERSO-->
 
 <!-- banner -->
 {{ if $data.homepage.banner.enable }}
