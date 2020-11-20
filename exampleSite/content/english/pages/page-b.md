@@ -1,7 +1,7 @@
 +++
 bg_image = ""
 blocs = []
-description = "Nhhphph Kkiiai BBBB FRFRFR"
+description = "Nhhphph Kkiiai BBBB ENGGLISH"
 entrer_plusieurs_photos = []
 title = "Page B"
 
