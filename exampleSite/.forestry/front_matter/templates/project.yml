@@ -20,13 +20,13 @@ fields:
   name: category
   label: category
   description: Filter Category
-- name: detail_du_projet
+- name: detail_project
   type: text
   config:
     required: false
-  label: Détail du projet
+  label: Detail
 - type: field_group_list
-  name: Detail_projet
+  name: information
   label: information
   fields:
   - type: text
@@ -35,6 +35,6 @@ fields:
   - type: text
     name: info
     label: info
-  description: Détail du projet
+  description: Détails du projet
 pages:
 - exampleSite/essai_nouveau_projet.toml
