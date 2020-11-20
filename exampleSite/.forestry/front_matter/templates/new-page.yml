@@ -29,4 +29,5 @@ fields:
   description: blocs
 pages:
 - exampleSite/content/english/pages/page-a-eng.md
+- exampleSite/content/english/pages/page-b.md
 - exampleSite/content/french/pages/page-a.md
