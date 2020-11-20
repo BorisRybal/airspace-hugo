@@ -1,10 +1,14 @@
 {{ define "main" }}
 
 {{ $data := index site.Data site.Language.Lang }}
+<!-- banner -->
+{{ if $data.homepage.banner.enable }}
+{{ with $data.homepage.banner }}
+
 <!-- AJOUT PERSO-->
 
 <div class="container-fluid home" id=home>
-        <div class="background container-fluid" style=background-image:url(https://hugo-toha.github.io/images/site/background.jpg)></div>
+        <div class="background container-fluid" style="background-image: url('{{ .bg_image | absURL }}');"></div>
        
  <div class="container content text-center">
             <img src=/images/author/john.png class="rounded-circle mx-auto d-block img-fluid">
@@ -29,9 +33,6 @@
     </div>
 <!-- AJOUT PERSO-->
 
-<!-- banner -->
-{{ if $data.homepage.banner.enable }}
-{{ with $data.homepage.banner }}
 <section class="slider {{if .bg_overlay}}overly{{end}}" style="background-image: url('{{ .bg_image | absURL }}');">
   <div class="container">
     <div class="row">
