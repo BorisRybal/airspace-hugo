@@ -86,7 +86,7 @@ weight = "2"
 [[Languages.fr.menu.main]]
 hasChildren = true
 name = "Pages"
-weight = 5
+weight = "3"
 [[Languages.fr.menu.main]]
 URL = "faq"
 name = "FAQ"
