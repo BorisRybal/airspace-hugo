@@ -65,7 +65,7 @@ languageName = "Fr"
 weight = "1"
 [[Languages.fr.menu.footer]]
 URL = "about"
-name = "Brav"
+name = "brav team"
 weight = 1
 [[Languages.fr.menu.footer]]
 URL = "faq"
