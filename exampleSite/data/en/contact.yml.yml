@@ -73,4 +73,3 @@ service:
 cta:
   enable: true
 title: contact.yml
-draft: true
