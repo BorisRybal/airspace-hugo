@@ -102,7 +102,7 @@ parent = "Pages"
 [[Languages.fr.menu.main]]
 URL = "about"
 name = "brav team"
-weight = 2
+weight = "4"
 [[Languages.fr.menu.main]]
 URL = "contact"
 name = "contact"
