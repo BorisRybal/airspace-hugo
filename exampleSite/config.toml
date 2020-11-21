@@ -93,7 +93,7 @@ name = "FAQ"
 parent = "Pages"
 [[Languages.fr.menu.main]]
 URL = "pricing"
-name = "pricing"
+name = "Essai_autre_page"
 weight = ""
 [[Languages.fr.menu.main]]
 URL = "pricing"
