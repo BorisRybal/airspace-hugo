@@ -101,7 +101,7 @@ name = "Un service"
 parent = "Pages"
 [[Languages.fr.menu.main]]
 URL = "about"
-name = "Bravo team"
+name = "brav team"
 weight = 2
 [[Languages.fr.menu.main]]
 URL = "contact"
