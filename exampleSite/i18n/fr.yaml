@@ -1,4 +1,6 @@
 ---
+- id: budget
+  translation: Budget
 - id: when
   translation: Quand ?
 - id: where
