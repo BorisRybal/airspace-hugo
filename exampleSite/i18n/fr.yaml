@@ -1,3 +1,4 @@
+---
 - id: last_update
   translation: Last updated
 - id: phone
@@ -11,7 +12,7 @@
 - id: address_title
   translation: Stop By For A visit
 - id: submit
-  translation: Send Message
+  translation: Envoyer Message
 - id: all
   translation: All
 - id: posted_by
