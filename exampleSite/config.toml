@@ -92,17 +92,13 @@ URL = "faq"
 name = "FAQ"
 parent = "Pages"
 [[Languages.fr.menu.main]]
-URL = "pricing"
-name = "Essai_autre_page"
-weight = ""
-[[Languages.fr.menu.main]]
-URL = "pricing"
-name = "Tarification"
-parent = "Pages"
-[[Languages.fr.menu.main]]
 URL = "service"
 name = "ensemble"
 parent = "Pages"
+[[Languages.fr.menu.main]]
+URL = "pricing"
+name = "Tarification"
+weight = ""
 [[Languages.fr.menu.main]]
 URL = "about"
 name = "brav team"
