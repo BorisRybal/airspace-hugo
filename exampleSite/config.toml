@@ -77,7 +77,7 @@ name = "Mentions légales"
 weight = 6
 [[Languages.fr.menu.main]]
 URL = "project"
-name = "Projets"
+name = "projets"
 weight = 3
 [[Languages.fr.menu.main]]
 URL = "blog"
