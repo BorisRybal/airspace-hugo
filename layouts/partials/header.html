@@ -40,7 +40,7 @@
 
               <!-- Language List Start-->
               {{- if site.IsMultiLingual }}
-               <li>
+               
                 
                   {{ $siteLanguages := site.Languages}}
                   {{ $pageLang := .Page.Lang}}
@@ -53,14 +53,13 @@
                  
                  
                   {{ else }}
-              <a href="{{ $translation.Permalink }}">{{ .LanguageName }}</a>
+            <li>  <a href="{{ $translation.Permalink }}">{{ .LanguageName }}</a></li>
                   
                   {{ end }}
                   {{ end }}
                   {{ end }}
                   {{ end }}
               
-               </li>
               {{ end }}<!-- Language List End --> 
             </ul>       
           </div><!-- /.navbar-collapse -->
