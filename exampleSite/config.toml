@@ -101,12 +101,8 @@ name = "FAQ"
 weight = 5
 [[Languages.fr.menu.footer]]
 URL = "contact"
-name = "Contact"
+name = "Mentions légales"
 weight = 6
-[[Languages.fr.menu.main]]
-URL = "/"
-name = "Accueil"
-weight = 1
 [[Languages.fr.menu.main]]
 URL = "about"
 name = "À propos"
