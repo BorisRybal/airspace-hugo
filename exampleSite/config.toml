@@ -97,7 +97,7 @@ name = "Tarification"
 parent = "Pages"
 [[Languages.fr.menu.main]]
 URL = "service"
-name = "Un service"
+name = "ensemble"
 parent = "Pages"
 [[Languages.fr.menu.main]]
 URL = "about"
