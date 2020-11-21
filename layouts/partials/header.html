@@ -40,8 +40,7 @@
 
               <!-- Language List Start-->
               {{- if site.IsMultiLingual }}
-               <div class="collapse navbar-collapse" id="navigation">
-            <ul class="nav navbar-nav navbar-right">
+               
                 
                   {{ $siteLanguages := site.Languages}}
                   {{ $pageLang := .Page.Lang}}
@@ -61,7 +60,7 @@
                   {{ end }}
                   {{ end }}
               
-                  </ul>
+                  
               
               {{ end }}<!-- Language List End -->
               
