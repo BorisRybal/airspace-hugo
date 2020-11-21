@@ -106,7 +106,7 @@ weight = "4"
 [[Languages.fr.menu.main]]
 URL = "contact"
 name = "contact"
-weight = 6
+weight = "5"
 [markup.goldmark.renderer]
 unsafe = true
 [outputs]
