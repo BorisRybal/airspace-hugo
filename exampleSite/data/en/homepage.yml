@@ -61,6 +61,18 @@ cta:
     label : "Tell Us Your Story"
     link : "contact"
 
+
+############################# Contacts ###############################
+contact:
+  enable: true
+  title: EN_nous_contacter
+  description: EN_contact_description
+  service_item:
+  - icon: ''
+    name: EN_ajout_detail_contact_
+    content: EN_essai_text_ajout_contact   
+    
+    
 ############################# Funfacts ###############################
 funfacts:
   enable : true
