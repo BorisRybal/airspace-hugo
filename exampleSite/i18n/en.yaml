@@ -1,3 +1,6 @@
+---
+- id: budget
+  translation: Budget
 - id: last_update
   translation: Last updated
 - id: phone
