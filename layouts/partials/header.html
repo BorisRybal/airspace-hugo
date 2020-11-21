@@ -26,7 +26,7 @@
               {{ if .HasChildren }}
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-                  aria-expanded="false">{{ .Name }} <span class="ion-ios-arrow-down"></span></a>
+                  aria-expanded="false">{{ .Name }} <span class="ion-ios-arrow-down">HHHHHHH</span></a>
                 <ul class="dropdown-menu">
                   {{ range .Children }}
                   <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
@@ -40,7 +40,8 @@
 
               <!-- Language List Start-->
               {{- if site.IsMultiLingual }}
-              
+               <div class="collapse navbar-collapse" id="navigation">
+            <ul class="nav navbar-nav navbar-right">
                 
                   {{ $siteLanguages := site.Languages}}
                   {{ $pageLang := .Page.Lang}}
@@ -54,13 +55,14 @@
                     {{ .LanguageName }}
                  
                   {{ else }}
-                 {{ $translation.Language }}LLL{{ $translation.Permalink }}NNN{{ .LanguageName }}
+              {{ $translation.Language }}LLL   <a href="{{ $translation.Permalink }}">NNN {{ .LanguageName }}</a>
                   
                   {{ end }}
                   {{ end }}
                   {{ end }}
                   {{ end }}
-                
+              
+                  </ul>
               
               {{ end }}<!-- Language List End -->
               
