@@ -119,7 +119,7 @@ email = "borisryal@gmail.com"
 google_analitycs_id = ""
 location = "198 rue marcadet, 75018 Paris, France"
 logo = "images/logo_brav_italic.png"
-logo_width = "200px"
+logo_width = "250px"
 mobile = "06.60.94.60.64"
 multi_author = false
 [params.cookies]
