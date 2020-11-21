@@ -1,4 +1,6 @@
 ---
+- id: when
+  translation: Quand ?
 - id: where
   translation: Où se situe votre projet
 - id: last_update
