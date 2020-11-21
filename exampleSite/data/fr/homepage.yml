@@ -47,6 +47,14 @@ service:
   - icon: ''
     name: FR_ajout_service
     content: FR_essai_text_ajout_service
+contact:
+  enable: true
+  title: Fr_nous_contacter
+  description: Fr_contact_description
+  service_item:
+  - icon: ''
+    name: FR_ajout_detail_contact_
+    content: FR_essai_text_ajout_contact   
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
