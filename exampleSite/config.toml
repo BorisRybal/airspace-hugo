@@ -76,10 +76,6 @@ URL = "contact"
 name = "Mentions légales"
 weight = 6
 [[Languages.fr.menu.main]]
-URL = "about"
-name = "À propos"
-weight = 2
-[[Languages.fr.menu.main]]
 URL = "project"
 name = "Projets"
 weight = 3
@@ -103,6 +99,10 @@ parent = "Pages"
 URL = "service"
 name = "Un service"
 parent = "Pages"
+[[Languages.fr.menu.main]]
+URL = "about"
+name = "Bravo team"
+weight = 2
 [[Languages.fr.menu.main]]
 URL = "contact"
 name = "Contact"
