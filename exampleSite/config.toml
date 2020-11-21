@@ -94,7 +94,15 @@ parent = "Pages"
 [[Languages.fr.menu.main]]
 URL = "pricing"
 name = "Approche"
-weight = ""
+parent = "Pages"
+[[Languages.fr.menu.main]]
+URL = "faq"
+name = "Approche"
+parent = "Pages"
+[[Languages.fr.menu.main]]
+URL = "service"
+name = "ensemble2"
+parent = "Pages"
 [[Languages.fr.menu.main]]
 URL = "service"
 name = "ensemble"
