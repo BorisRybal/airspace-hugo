@@ -1,4 +1,4 @@
-DefaultContentLanguage = "fr"
+DefaultContentLanguage = "fr-FR"
 baseURL = "http://boris-airspace-hugo.netlify.com"
 disableLanguages = []
 disqusShortname = ""
