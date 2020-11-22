@@ -8,17 +8,18 @@ fields:
 - type: text
   name: description
   label: description
+- name: nous_contacter
+  type: text
+  config:
+    required: false
+  label: Nous_contacter
+  description: Nhsuiu TEXTE Françai
 - name: bg_image
   type: file
   config:
     maxSize: 25
   label: bg image
   description: page header background image
-- name: entrer_plusieurs_photos
-  type: image_gallery
-  config: {}
-  label: Entrer plusieurs photos
-  description: description entre plusieurs photos
 - name: blocs
   type: blocks
   label: blocs
@@ -27,6 +28,58 @@ fields:
     min: 
     max: 
   description: blocs
+- name: residentiel_construction
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Residentiel_construction
+  description: Résidentiel nouvelle construction
+- name: residentiel_renovation
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Residentiel_renovation
+  description: Résidentiel rénovation/extension
+- name: commercial
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Commercial
+  description: Commercial/restaurant
+- name: autre
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Autre
+  description: Autre / culturel
 pages:
 - exampleSite/content/english/pages/page-a-eng.md
 - exampleSite/content/english/pages/page-a-eng.md
