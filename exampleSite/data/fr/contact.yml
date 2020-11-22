@@ -84,3 +84,11 @@ cta:
   title: Fr_cta-titre
   content: Fr_cta-ESSSAIcontenu
 title: contact.yml
+description: EssaI_Titre_Contact
+nous_contacter: ''
+bg_image: ''
+blocs: []
+residentiel_construction: ''
+residentiel_renovation: ''
+commercial: ''
+autre: ''
