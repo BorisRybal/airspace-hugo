@@ -3,13 +3,15 @@ JJJJJJJJJJJJJJ
 {{ partial "page-title.html" . }}
 
 {{ $data := index site.Data site.Language.Lang }}
-
+ {{ .content | markdownify }}
 AAAAAAAAAAA
 {{ if $data.contact.featured_contact.enable }}
+ {{ .content | markdownify }}
 {{ with $data.contact.featured_contact }}
 <section class="contact-arrow">
   <div class="container-fluid">
     <div class="row">
+       {{ .content | markdownify }}
       {{ range .contact_item }}
       <div class="col-md-4 bg-primary bg-{{ .color }}">
         <div class="block">
