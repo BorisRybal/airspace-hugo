@@ -74,5 +74,5 @@ featured_contact:
 cta:
   enable: true
   title: Fr_cta-titre
-  content: Fr_cta-contenu
+  content: Fr_cta-ESSSAIcontenu
 title: contact.yml
