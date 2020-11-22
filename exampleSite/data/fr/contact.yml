@@ -13,27 +13,9 @@ contact:
     suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga
     dolore officia adipisci neque!
   image: images/company/company-group-pic.jpg
-featured_contact:
+  contact:
   enable: true
-  contact_item:
-  - name: FR-Interface CONTACT Design
-    icon: FR_on-erlenmeyer-flask
-    color: primary
-    content: Lorem CONTACT ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
-  - name: FR_Product Branding
-    icon: ion-leaf
-    color: primary-dark
-    content: FR_Lorem ipsum  CONTACTdolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
-  - name: Game Development
-    icon: ion-lightbulb
-    color: primary-darker
-    content: Lorem i CONTACTpsum  CONTACTdolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
-contact:
-  enable: true
-  title: FR_nos CONTACT
+  title: FR_nosAAA-____CONTACT
   description: FR_Far far  CONTACTaway, behind the word mountains, far from the countries
     Vokalia and Consonantia, <br> t CONTACThere live the blind texts. Separated they live
     in Bookmarksgrove right at the coast of the Semantics
@@ -70,6 +52,25 @@ contact:
     name: Brand Identity
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
+featured_contact:
+  enable: true
+  contact_item:
+  - name: FR-Interface CONTACT Design
+    icon: FR_on-erlenmeyer-flask
+    color: primary
+    content: Lorem CONTACT ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
+      impedit repudiandae omnis est temporibus.
+  - name: FR_Product Branding
+    icon: ion-leaf
+    color: primary-dark
+    content: FR_Lorem ipsum  CONTACTdolor sit amet, consectetur adipisicing elit. Saepe enim
+      impedit repudiandae omnis est temporibus.
+  - name: Game Development
+    icon: ion-lightbulb
+    color: primary-darker
+    content: Lorem i CONTACTpsum  CONTACTdolor sit amet, consectetur adipisicing elit. Saepe enim
+      impedit repudiandae omnis est temporibus.
+
 cta:
   enable: true
   title: Fr_cta-titre
