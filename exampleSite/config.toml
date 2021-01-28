@@ -9,7 +9,7 @@ themesDir = "../.."
 title = "BRAV | Boris Rybaltchenko Architecture Vivante"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 BRAV, All Rights Reserved"
+copyright = "Copyright &copy; 2021 BRAV, All Rights Reserved"
 languageCode = "en-us"
 languageName = "En"
 weight = "2"
@@ -59,7 +59,7 @@ name = "Contact"
 weight = 6
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2020 BRAV : tous droits réservés."
+copyright = "Copyright &copy; 2021 BRAV : tous droits réservés."
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = "1"
@@ -122,7 +122,7 @@ home = ["HTML"]
 [params]
 author = "BRAV Boris Rybaltchenko Architecture Vivante"
 contact_form_action = "#"
-description = "BRAV  | Boris Rybaltchenko Architecture Vivante, biodiversité, vivants, bâtir, ville, bien-être, respectueuse"
+description = "BRAV  | Boris Rybaltchenko Architecture Vivante, biodiversité, vivants, bâtir, ville, bien-être, respect, respectueuse"
 email = "borisryal@gmail.com"
 google_analitycs_id = ""
 location = "198 rue marcadet, 75018 Paris, France"
