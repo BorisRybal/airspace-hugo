@@ -1,5 +1,5 @@
 ---
-title: FR_Rio Furniture
+title: FR_Rio Furniture AAA
 description: FR_this is meta description
 image: images/portfolio/work2.jpg
 bg_image: images/featue-bg.jpg
@@ -22,7 +22,7 @@ information:
 detail_project: Détail du projet
 
 ---
-## FR_Behance Website Redesign
+## AAA--FR_Behance Website Redesign
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
 reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
@@ -38,6 +38,8 @@ temporibus nesciunt, incidunt in quasi. Veniam aliquid ea aperiam, obcaecati vol
 fugiat at, inventore molestiae quibusdam, modi numquam debitis libero aut eum. Architecto sit quia quidem
 odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipisci iste optio
 ea libero laboriosam praesentium aperiam nobis vero tempore consequuntur sapiente eos at. Suscipit quis
+
+![](/images/portfolio/work6.jpg)![](/images/teams/team-2.jpg)![](/images/slider-bg.jpg)
 voluptatibus temporibus dolore consectetur ex excepturi adipisci sunt. Maxime aperiam eos illum minima
 aliquid voluptate autem qui at impedit recusandae earum possimus, alias, maiores sint, sed quia quis aut
 cupiditate voluptatem reiciendis. Facilis nobis assumenda totam officiis dicta autem dolorem quidem
